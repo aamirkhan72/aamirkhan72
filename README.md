@@ -1,4 +1,10 @@
-# 👋 Hi, I'm Aamir Khan (@aamirkhan72)  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&color=0000FF&center=true&width=450&lines=Welcome+to+my+profile!" alt="Typing SVG" />
+</p>
+
+
+# 👋 Hi, I'm Aamir Khan
 
 🚀 **Web Developer | Open Source Enthusiast | Tech Explorer**  
 
